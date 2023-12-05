@@ -717,6 +717,10 @@ body, html{
 	animation-delay: 5300ms;
 }
 
+.third--canvas > div#sm{
+	left:55%;
+}
+
 @keyframes giftIcon{
 	from{
 		transform:scale(0);
